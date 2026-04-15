@@ -14,6 +14,14 @@ Even a small mistake in such environments can lead to serious consequences.
 
 ---
 
+
+## Medium Article
+
+Read the full detailed explanation here:
+👉 https://moizaliafzaal.medium.com/how-i-built-a-hallucinationproof-ai-for-medical-safety-eafeb0552bf4
+
+---
+
 ## Objective
 
 This project focuses on building a **safety-first AI pipeline** that:
@@ -141,12 +149,7 @@ By separating reasoning from verification, the system significantly reduces hall
 
 ---
 
-## Medium Article
 
-Read the full detailed explanation here:
-👉 https://moizaliafzaal.medium.com/how-i-built-a-hallucinationproof-ai-for-medical-safety-eafeb0552bf4
-
----
 
 ## Code Availability
 
